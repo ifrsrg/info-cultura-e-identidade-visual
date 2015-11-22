@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.111473"
-     inkscape:cx="311.42856"
-     inkscape:cy="884.23091"
+     inkscape:zoom="1.1058119"
+     inkscape:cx="170.39668"
+     inkscape:cy="618.5254"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,9 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata3499">
     <rdf:RDF>
@@ -46,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -194,5 +196,126 @@
          y="218.38185"
          id="tspan3843"
          style="font-size:20px;fill:#015a01">Campus Rio Grande</tspan></text>
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       ry="22.016951"
+       y="271.3252"
+       x="28.793003"
+       height="44.033901"
+       width="44.033901"
+       id="rect2997"
+       style="fill:#d40000;fill-rule:evenodd;stroke:none" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       style="fill:#339900;fill-rule:evenodd;stroke:none"
+       id="rect2999"
+       width="44.033901"
+       height="44.033901"
+       x="76.034706"
+       y="271.3252"
+       ry="9.8414583" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       ry="9.8414583"
+       y="271.3252"
+       x="123.2764"
+       height="44.033901"
+       width="44.033901"
+       id="rect3001"
+       style="fill:#339900;fill-rule:evenodd;stroke:none" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       style="fill:#339900;fill-rule:evenodd;stroke:none"
+       id="rect3003"
+       width="44.033901"
+       height="44.033901"
+       x="28.793003"
+       y="318.56689"
+       ry="9.8414583" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       ry="9.8414583"
+       y="318.56689"
+       x="76.034706"
+       height="44.033901"
+       width="44.033901"
+       id="rect3005"
+       style="fill:#339900;fill-rule:evenodd;stroke:none" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       style="fill:#339900;fill-rule:evenodd;stroke:none"
+       id="rect3007"
+       width="44.033901"
+       height="44.033901"
+       x="28.793003"
+       y="365.80859"
+       ry="9.8414583" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       ry="9.8414583"
+       y="365.80859"
+       x="76.034706"
+       height="44.033901"
+       width="44.033901"
+       id="rect3009"
+       style="fill:#339900;fill-rule:evenodd;stroke:none" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       style="fill:#339900;fill-rule:evenodd;stroke:none"
+       id="rect3011"
+       width="44.033901"
+       height="44.033901"
+       x="123.2764"
+       y="365.80859"
+       ry="9.8414583" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       ry="9.8414583"
+       y="413.05029"
+       x="28.793003"
+       height="44.033901"
+       width="44.033901"
+       id="rect3013"
+       style="fill:#339900;fill-rule:evenodd;stroke:none" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/jaspion/hub/ifrs-todo.png"
+       style="fill:#339900;fill-rule:evenodd;stroke:none"
+       id="rect3015"
+       width="44.033901"
+       height="44.033901"
+       x="76.034706"
+       y="413.05029"
+       ry="9.8414583" />
+    <text
+       xml:space="preserve"
+       style="font-size:99.46730804px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+       x="22.024433"
+       y="533.06403"
+       id="text3017"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3019"
+         x="22.024433"
+         y="533.06403">RS</tspan></text>
   </g>
 </svg>
